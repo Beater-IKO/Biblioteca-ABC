@@ -1,4 +1,4 @@
-# Biblioteca-ABC
+```# Biblioteca-ABC
 
 
 Projeto de back-end desenvolvido em **Spring Boot** para gerenciar uma biblioteca fictícia.  
@@ -102,3 +102,4 @@ Observações:
 O projeto não utiliza banco de dados. Os dados ficam em memória enquanto a aplicação está em execução.
 Não foram implementados relacionamentos entre entidades (cada CRUD é independente).
 Ideal para aprendizado de REST APIs com Spring Boot.
+```
